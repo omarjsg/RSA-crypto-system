@@ -36,45 +36,45 @@ what we will do is change directories till we reach where our program is located
 
 - open the command prompt on your device and type `java -version`
 
-![plot](illustration\javaversion.png)
+![plot](illustration/javaversion.png)
  as you can see I have my java implemented on my device. if you don't have java you need to download, install, and direct a path for java you can look for any tutorial on youtube for help
 
  
 2- Checks what directory your in by typing `dir`
 
-![plot](illustration\start.png)
+![plot](illustration/start.png)
 
 as you can see we are in the users directory, but we need to get to the desktop directory so
 
 3-move to the desktop directory by typing `cd desktop`
 
-![plot](illustration\desktopimg.png)
+![plot](illustration/desktopimg.png)
 
 
 4-we repeat step 2 and 3(but change `cd desktop` to `cd RSACS`) to find the name of the directory we have our program in and move to it (in our case it is in the desktop and is called "RSACS")
 
-![plot](illustration\foundRSA.png)
-![plot](illustration\cdRSA.png)
+![plot](illustration/foundRSA.png)
+![plot](illustration/cdRSA.png)
 
 5-type `dir` to check the files inside the RSACS directory
 
-![plot](illustration\inRSA.png)
+![plot](illustration/inRSA.png)
 
 6-move to the RSACS file inside the directory and check its content
 
-![plot](illustration\t5.png)
+![plot](illustration/t5.png)
 
 notice the `src` file, that is the file which contains our java file that we need to compile so
 
 7- move to the src file and list its content
 
-![plot](illustration\srcf.png)
+![plot](illustration/srcf.png)
 
 as you can see there is the Driver.java file which is our program,now we only need to compile it 
 
 8-type `java Driver.java`
 
-![plot](illustration\final.png)
+![plot](illustration/final.png)
 
 as you can see the program compiled and now all you have to do is run the file as instructed in the "How to run (Run time)" section
 
